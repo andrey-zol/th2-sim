@@ -72,7 +72,7 @@ spec:
   type: th2-sim
   custom-config:
     defaultRules:
-      - methodName: createDemoRule
+      - methodName: createRuleFIX
         enable: true
         settings:
           fields:
